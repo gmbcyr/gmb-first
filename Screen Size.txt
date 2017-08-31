@@ -1,0 +1,4 @@
+5"=Screen size->540_and Y->960
+5.7"=Screen size->1440_and Y->2560
+10"=Screen size->600_and Y->976
+3.5"=Screen size->320_and Y->480
